@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm  Mayank Singh Rawat
 
 I'm a passionate **Full-Stack Web Developer** currently learning and building projects using the **MERN stack** and **Next.js**.  
 I love turning ideas into real applications and improving my skills every day.
